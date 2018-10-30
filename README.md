@@ -1,4 +1,4 @@
-# TouraniCompiler - The compiler for the Tourani laguage
+# TouraniCompiler - The compiler for the Tourani language
 The official compiler for Tourani (coming soon)
 
 ## Terms of Use of Tourani (FREE EDITION)
